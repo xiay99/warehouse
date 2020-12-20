@@ -1,3 +1,5 @@
 today is a good day
 tomorrow is also a good day
 这是master分支上的内容
+这是branch1分支上的内容
+这是我合并后需要保存的内容
